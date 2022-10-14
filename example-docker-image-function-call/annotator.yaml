@@ -1,5 +1,5 @@
-apiVersion: transformers.example.co/v1
-kind: ValueAnnotator
+apiVersion: notImportantHere
+kind: notImportantHere
 metadata:
   name: notImportantHere
   annotations:
