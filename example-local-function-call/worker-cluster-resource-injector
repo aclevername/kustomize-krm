@@ -17,3 +17,7 @@ kind: ResourceList
 items: [ $promise ]
 "
 
+rm /tmp/promise.json
+rm /tmp/promise.yaml
+rm -rf /tmp/chart/
+
