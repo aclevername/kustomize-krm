@@ -1,0 +1,4 @@
+resources:
+- unannotated-configmap.yaml
+transformers:
+- annotator.yaml
